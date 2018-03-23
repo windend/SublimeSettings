@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"ignored_packages":
+	[
+		"Flask Completions",
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"theme": "Default.sublime-theme"
+}

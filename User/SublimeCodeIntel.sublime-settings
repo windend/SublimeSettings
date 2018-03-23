@@ -1,0 +1,10 @@
+{ "codeintel_language_settings": {
+        "Python3": {
+            "python": "/usr/local/bin/python3.6",
+            "codeintel_scan_extra_dir": [
+                 "/usr/local/lib/python3.6/site-packages"
+            ],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_selected_catalogs": []
+        }
+    }}
